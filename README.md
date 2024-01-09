@@ -1,3 +1,5 @@
+![Wordpress input type number form validation by Ali Houshangi](https://photos.app.goo.gl/3cfLiRdPaFrzgJnB9)
+
 # Input Number Validation Form (WordPress)
 
 This repository contains a JavaScript code snippet that validates a phone number input field in a WordPress form. The validation ensures that the entered number:
