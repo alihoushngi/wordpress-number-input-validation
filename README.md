@@ -1,4 +1,4 @@
-![Wordpress input type number form validation by Ali Houshangi](https://photos.app.goo.gl/3cfLiRdPaFrzgJnB9)
+![Wordpress input type number form validation by Ali Houshangi](https://drive.google.com/file/d/15culkF7ssBMkNgyTZcVHJTrQauS0shhs/view?usp=sharing)
 
 # Input Number Validation Form (WordPress)
 
